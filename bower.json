@@ -1,0 +1,31 @@
+{
+  "name": "vartak-college",
+  "authors": [
+    "Sai Ashirwad Informatia <connect@saiashirwad.com>"
+  ],
+  "description": "Open Source your ideas",
+  "main": "",
+  "keywords": [
+    "project",
+    "ideas",
+    "open",
+    "source"
+  ],
+  "license": "MIT",
+  "homepage": "http://saiashirwad.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.*",
+    "bootstrap": "^3.3.7",
+    "fontawesome": "^4.6.3",
+    "normalize.css": "^4.2.0",
+    "unslider": "^2.0.3"
+  }
+}
